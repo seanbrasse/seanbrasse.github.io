@@ -106,7 +106,7 @@
 
     var script = document.createElement("script");
 
-    script.src = "//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/ttt8/embed.js";
+    script.src = "//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/ttt-fix/embed.js";
     script.type = "text/javascript";
     script.onload = function () {
         if (window.dojoRequire) {
